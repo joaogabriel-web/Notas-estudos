@@ -1,0 +1,25 @@
+{
+  "name": "notas-estudos",
+  "version": "1.0.0",
+  "description": "Notass de estudo do Senac JP26",
+  "homepage": "https://github.com/joaogabriel-web/Notas-estudos#readme",
+  "bugs": {
+    "url": "https://github.com/joaogabriel-web/Notas-estudos/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaogabriel-web/Notas-estudos.git"
+  },
+  "license": "ISC",
+  "author": "joao gabriel",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index..js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
