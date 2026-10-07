@@ -1,0 +1,24 @@
+{
+  "name": "notas-estudos",
+  "version": "0.0.2",
+  "description": "praticando",
+  "homepage": "https://github.com/joaogabriel-web/Notas-estudos#readme",
+  "bugs": {
+    "url": "https://github.com/joaogabriel-web/Notas-estudos/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaogabriel-web/Notas-estudos.git"
+  },
+  "license": "ISC",
+  "author": "joao gabriel",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "dev": "node --watch script.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
